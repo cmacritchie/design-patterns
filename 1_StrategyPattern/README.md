@@ -2,7 +2,7 @@
 
 strategy
 
-![strategy pattern](images/strategy.jpg)
+![strategy pattern](images/strategy.JPG)
 
 ⋅⋅* Unordered sub-list on strategy pattern 
 
