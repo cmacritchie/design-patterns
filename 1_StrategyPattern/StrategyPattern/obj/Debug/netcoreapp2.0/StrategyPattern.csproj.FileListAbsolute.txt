@@ -9,3 +9,14 @@ C:\Users\cmacritchie\source\repos\StrategyPattern\StrategyPattern\obj\Debug\netc
 C:\Users\cmacritchie\source\repos\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
 C:\Users\cmacritchie\source\repos\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb
 C:\Users\cmacritchie\source\repos\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.deps.json
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.json
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.pdb
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\cmacritchie\Desktop\Design_Patterns\1_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb

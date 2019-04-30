@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmacritchie\\source\\repos\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+      "projectUniqueName": "C:\\Users\\cmacritchie\\Desktop\\Design_Patterns\\1_StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
       "projectName": "StrategyPattern",
-      "projectPath": "C:\\Users\\cmacritchie\\source\\repos\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+      "projectPath": "C:\\Users\\cmacritchie\\Desktop\\Design_Patterns\\1_StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
       "packagesPath": "C:\\Users\\cmacritchie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmacritchie\\source\\repos\\StrategyPattern\\StrategyPattern\\obj\\",
+      "outputPath": "C:\\Users\\cmacritchie\\Desktop\\Design_Patterns\\1_StrategyPattern\\StrategyPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

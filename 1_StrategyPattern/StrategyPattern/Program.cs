@@ -8,6 +8,7 @@ namespace StrategyPattern
         {
             Duck mallard = new MallardDuck();
             RubberDuck rubber = new RubberDuck();
+            Duck rubberDucky = new RubberDuck();
 
             mallard.performFly();
             mallard.performQuack();
@@ -25,6 +26,9 @@ namespace StrategyPattern
             mallard.performFly();
             mallard.setQuackBehaviour(new StrongQuack());
             mallard.performQuack();
+
+            rubberDucky.setFlyBehaviour(new FlyWithRocket());
+            rubberDucky.performQuack();
 
             Console.ReadLine();
         }

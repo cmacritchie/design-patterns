@@ -8,7 +8,7 @@ namespace StrategyPattern
     {
         public void Quack()
         {
-            Console.WriteLine("Squeek, Squeek, Chirp");
+            Console.WriteLine("Squeak, Squeak, Squeak");
         }
     }
 }

@@ -8,7 +8,7 @@ namespace StrategyPattern
     {
         public void Fly()
         {
-            Console.WriteLine("Get he thrusters ready, We're rocket flying");
+            Console.WriteLine("Thrusters ready, We have lift off!");
         }
     }
 }
