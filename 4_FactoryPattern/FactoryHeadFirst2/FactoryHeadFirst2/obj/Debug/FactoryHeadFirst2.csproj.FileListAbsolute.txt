@@ -1,7 +1,0 @@
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\bin\Debug\FactoryHeadFirst2.exe.config
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\bin\Debug\FactoryHeadFirst2.exe
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\bin\Debug\FactoryHeadFirst2.pdb
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\obj\Debug\FactoryHeadFirst2.csprojResolveAssemblyReference.cache
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\obj\Debug\FactoryHeadFirst2.csproj.CoreCompileInputs.cache
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\obj\Debug\FactoryHeadFirst2.exe
-c:\users\cmacritchie\source\repos\FactoryHeadFirst2\FactoryHeadFirst2\obj\Debug\FactoryHeadFirst2.pdb
