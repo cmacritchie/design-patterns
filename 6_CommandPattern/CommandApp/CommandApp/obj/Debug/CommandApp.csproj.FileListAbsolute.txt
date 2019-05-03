@@ -1,0 +1,7 @@
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\bin\Debug\CommandApp.exe.config
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\bin\Debug\CommandApp.exe
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\bin\Debug\CommandApp.pdb
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\obj\Debug\CommandApp.csproj.CoreCompileInputs.cache
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\obj\Debug\CommandApp.exe
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\obj\Debug\CommandApp.pdb
+C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\Command\CommandApp\CommandApp\obj\Debug\CommandApp.csprojAssemblyReference.cache
