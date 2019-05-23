@@ -6,7 +6,7 @@ The Observer PAttern...
 #### Quick Notes
 * Quick Notes
 
-![strategy pattern](images/strategy.JPG)
+![strategy pattern](images/observer.JPG)
 
 #### Pros
 * pros
