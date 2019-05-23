@@ -11,3 +11,10 @@ C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\ConsoleApp1 Observer\C
 C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\cmacritchie\source\repos\HeadFirstDesignPatterns\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cmacritchie\Desktop\Design_Patterns\2_ObserverPattern\ConsoleApp1 Observer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
