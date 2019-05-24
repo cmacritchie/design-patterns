@@ -21,6 +21,12 @@ namespace ConsoleApp1
             weatherData.SetMeasurements(82, 70, 29.2f);
             weatherData.SetMeasurements(78, 90, 29.2f);
 
+            Console.WriteLine("We no longer want to keep track of the forecast");
+
+            forecast.RemoveSubscription();
+            weatherData.SetMeasurements(84, 80, 27.2f);
+            weatherData.SetMeasurements(78, 90, 29.2f);
+
             Console.ReadLine();
         }
     }

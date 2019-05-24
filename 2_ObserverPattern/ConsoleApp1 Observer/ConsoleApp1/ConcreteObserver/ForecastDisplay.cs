@@ -18,6 +18,12 @@ namespace ConsoleApp1
             weatherData.RegisterObserver(this);
         }
 
+        public void RemoveSubscription()
+        {
+            weatherData.RemoveObserver(this);
+            Console.WriteLine("forecast removed");
+        }
+
         public void Display()
         {
             if(currentPRessure > lastPressure)
