@@ -1,4 +1,4 @@
-# Strategy Pattern
+# Decorator Pattern
 
 The decorator pattern is a design pattern that allows behaviour to be added to an individual object, dynamically without affecting the behaviour of other objects from the same class. 
 
